@@ -2,7 +2,7 @@ import unittest
 
 from parameterized import parameterized
 
-from course.homework.sixth_task import sequence_of_list, sequence_of_tuple
+from course.homework.homework_29_06.task_6.sixth_task import sequence_of_list, sequence_of_tuple
 
 class TestDictionary(unittest.TestCase):
     @parameterized.expand([('1, 2, 3, 4, 5', [1, 2, 3, 4, 5])])

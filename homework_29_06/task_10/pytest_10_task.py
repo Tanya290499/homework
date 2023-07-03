@@ -1,5 +1,5 @@
 import pytest
-from course.homework.tenth_task import nomenclature
+from course.homework.homework_29_06.task_10.tenth_task import nomenclature
 
 
 class TestLists:

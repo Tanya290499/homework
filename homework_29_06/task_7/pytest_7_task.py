@@ -1,5 +1,5 @@
 import pytest
-from course.homework.seventh_task import new_list_first_way, new_list_second_way
+from course.homework.homework_29_06.task_7.seventh_task import new_list_first_way, new_list_second_way
 
 class TestNewList:
     @pytest.mark.parametrize('something_list, expected_result', [([1, 20, 30, 45, 56, 66], [1, 66]), ([], [])])

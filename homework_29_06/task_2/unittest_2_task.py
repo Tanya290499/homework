@@ -1,6 +1,6 @@
 import unittest
 
-from course.homework.second_task import List
+from course.homework.homework_29_06.task_2.second_task import List
 
 from parameterized import parameterized
 

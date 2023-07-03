@@ -1,5 +1,5 @@
 import pytest
-from course.homework.ninth_task import even_numbers_first_way, even_numbers_second_way
+from course.homework.homework_29_06.task_9.ninth_task import even_numbers_first_way, even_numbers_second_way
 
 class TestNewList:
     @pytest.mark.parametrize('length, expected_result', [([1, 2, 3, 4, 6, 237, 14], [2, 4, 6]), ([], [])])

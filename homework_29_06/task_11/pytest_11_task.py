@@ -1,5 +1,5 @@
 import pytest
-from course.homework.eleventh_task import directory
+from course.homework.homework_29_06.task_11.eleventh_task import directory
 
 
 class TestLists:

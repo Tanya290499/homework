@@ -1,5 +1,5 @@
 import pytest
-from course.homework.sixth_task import sequence_of_list, sequence_of_tuple
+from course.homework.homework_29_06.task_6.sixth_task import sequence_of_list, sequence_of_tuple
 
 class TestDictionary:
     @pytest.mark.parametrize('string, expected_result', [('1, 2, 3, 4, 5', [1, 2, 3, 4, 5])])

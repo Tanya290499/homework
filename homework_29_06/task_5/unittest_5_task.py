@@ -1,5 +1,5 @@
 import unittest
-from course.homework.fifth_task import Palindrome
+from course.homework.homework_29_06.task_5.fifth_task import Palindrome
 
 from parameterized import parameterized
 

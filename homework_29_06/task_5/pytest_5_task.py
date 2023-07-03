@@ -1,5 +1,5 @@
 import pytest
-from course.homework.fifth_task import Palindrome
+from course.homework.homework_29_06.task_5.fifth_task import Palindrome
 
 class TestDictionary:
     @pytest.mark.parametrize('string, expected_result', [('121', True), ('12123', False)])

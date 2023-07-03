@@ -1,6 +1,6 @@
 import pytest
 
-from course.homework.first_task import Square
+from course.homework.homework_29_06.task_1.first_task import Square
 
 class TestSquare:
     @pytest.mark.parametrize('side, expected_result', [(16, [64, 256, 4]), (0, [0, 0, 0])])

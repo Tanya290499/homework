@@ -2,7 +2,7 @@ import unittest
 
 from parameterized import parameterized
 
-from course.homework.eighth_task import get_extension
+from course.homework.homework_29_06.task_8.eighth_task import get_extension
 
 
 class TestNewList(unittest.TestCase):

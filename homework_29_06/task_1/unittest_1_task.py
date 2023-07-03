@@ -2,7 +2,7 @@ import unittest
 
 from parameterized import parameterized
 
-from course.homework.first_task import Square
+from course.homework.homework_29_06.task_1.first_task import Square
 
 class Test_first_task(unittest.TestCase):
     @parameterized.expand([(16, [64, 256, 4]), (0, [0, 0, 0])])

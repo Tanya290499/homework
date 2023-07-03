@@ -1,6 +1,6 @@
 import pytest
 
-from course.homework.second_task import List
+from course.homework.homework_29_06.task_2.second_task import List
 
 class TestList:
     @pytest.mark.parametrize('a, b, expected_result', [([1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89], 5, [1, 1, 2, 3]),

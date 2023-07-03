@@ -1,5 +1,5 @@
 import unittest
-from course.homework.fourth_task import Dictionary
+from course.homework.homework_29_06.task_4.fourth_task import Dictionary
 from parameterized import parameterized
 
 class TestDictionary(unittest.TestCase):

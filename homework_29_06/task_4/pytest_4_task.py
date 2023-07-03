@@ -1,5 +1,5 @@
 import pytest
-from course.homework.fourth_task import Dictionary
+from course.homework.homework_29_06.task_4.fourth_task import Dictionary
 
 class TestDictionary:
     @pytest.mark.parametrize('first_dictionary, second_dictionary, expected_result',

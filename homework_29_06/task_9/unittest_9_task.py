@@ -2,7 +2,7 @@ import unittest
 
 from parameterized import parameterized
 
-from course.homework.ninth_task import even_numbers_first_way, even_numbers_second_way
+from course.homework.homework_29_06.task_9.ninth_task import even_numbers_first_way, even_numbers_second_way
 
 
 class TestNewList(unittest.TestCase):

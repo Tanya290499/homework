@@ -2,7 +2,7 @@ import unittest
 
 from parameterized import parameterized
 
-from course.homework.seventh_task import new_list_first_way, new_list_second_way
+from course.homework.homework_29_06.task_7.seventh_task import new_list_first_way, new_list_second_way
 
 
 class TestNewList(unittest.TestCase):
